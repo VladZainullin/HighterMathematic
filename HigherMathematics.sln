@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HigherMathematics", "Higher
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematics", "Mathematics\Mathematics.csproj", "{4C818809-0931-48AB-9BBF-035B9E82DA18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corelation", "Corelation\Corelation.csproj", "{3B74FC16-74E1-4F85-92B4-6A4DBBDE8BB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4C818809-0931-48AB-9BBF-035B9E82DA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C818809-0931-48AB-9BBF-035B9E82DA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C818809-0931-48AB-9BBF-035B9E82DA18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B74FC16-74E1-4F85-92B4-6A4DBBDE8BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B74FC16-74E1-4F85-92B4-6A4DBBDE8BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B74FC16-74E1-4F85-92B4-6A4DBBDE8BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B74FC16-74E1-4F85-92B4-6A4DBBDE8BB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

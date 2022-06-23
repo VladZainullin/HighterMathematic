@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Corelation\Corelation.csproj" />
     <ProjectReference Include="..\Mathematics\Mathematics.csproj" />
   </ItemGroup>
 
